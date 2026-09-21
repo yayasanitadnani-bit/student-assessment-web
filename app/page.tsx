@@ -61,7 +61,7 @@ export default function Home() {
             </div>
 
             <p className="text-sm font-semibold text-[#397343]">
-              Selamat datang 👋
+              Selamat datang Orang tua wali 👋
             </p>
 
             <h2 className="mt-2 max-w-2xl text-3xl font-extrabold tracking-tight sm:text-4xl lg:text-5xl">
